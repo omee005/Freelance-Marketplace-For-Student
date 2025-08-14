@@ -50,6 +50,3 @@ Planned enhancements for this contract include:
 | `post_job(client: &signer, description: vector<u8>, amount: u64)` | Allows a client to post a new job with a description and APT payment. |
 | `accept_job(student: &signer, client_addr: address, index: u64)`  | Allows a freelancer to accept a job and receive the funds.            |
 
----
-
-Let me know if you'd like a Markdown file or a version with usage examples or deployment instructions.
