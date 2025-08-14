@@ -1,0 +1,15 @@
+[package]
+name = "Freelance-Marketplace-for-Students"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule='0x08d857c48ae295565a8b469a487db13e49ed0f9211f735357e3e02db818cf1fc'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
